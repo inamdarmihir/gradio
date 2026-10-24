@@ -35,6 +35,8 @@ Tip: For quick prototyping, the community-maintained <a href='https://github.com
 
 Of course, we could also use the `openai` library directy. Here a similar example to the LangChain , but this time with streaming as well:
 
+$code_llm_openai
+
 Tip: For quick prototyping, the  <a href='https://github.com/gradio-app/openai-gradio'>openai-gradio library</a> makes it even easier to build chatbots on top of OpenAI models.
 
 
