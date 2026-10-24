@@ -63,7 +63,7 @@ Tip: For quick prototyping, the  <a href='https://github.com/HyperbolicLabs/hype
 
 ## Anthropic's Claude 
 
-Anthropic's Claude model can also be used via API. Here's a simple 20 questions-style game built on top of the Anthropic API:
+Anthropic's Claude model can also be used via API. Here's a simple streaming chatbot built on top of the Anthropic API:
 
 $code_llm_claude
 
